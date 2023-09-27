@@ -1,0 +1,12 @@
+ {
+    "Number": "#",
+    "Position": "Position",
+    "Company": "Company",
+    "Salary": "Salary",
+    "City": "City",
+    "PublicationDate": "Publication Date",
+    "Views": "No. of Views",
+    "tableHeaderClass": "table-header-dark"
+
+  }
+  

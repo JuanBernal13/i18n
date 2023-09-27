@@ -1,0 +1,9 @@
+.table-header-light {
+    background-color: #f6f6f6;
+    color: #000f0f;
+  }
+  
+  .table-header-dark {
+    background-color: #080808;
+    color: #ffffff;
+  }
